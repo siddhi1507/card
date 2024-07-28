@@ -1,0 +1,25 @@
+/* src/Card.css */
+.card {
+    border: 2px solid;
+    border-image: linear-gradient(45deg, #f3ec78, #af4261) 1;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    width: 200px; /* Fixed width for uniformity */
+  }
+  
+  .card-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-title {
+    margin: 10px 0;
+  }
+  
+  .card-description {
+    margin: 10px 0;
+  }
+  

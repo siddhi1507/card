@@ -1,0 +1,17 @@
+/* src/App.css */
+.app {
+  text-align: center;
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  padding: 20px;
+}
+
+.app-title {
+  margin-bottom: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
